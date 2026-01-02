@@ -1,2 +1,12 @@
-# 695833ece31cc5428d43fcae
-Frontend repository for Connect
+# Connect - Frontend
+
+## Frontend Deployment
+
+**GitHub Pages URL:** https://skill-in-projects.github.io/695833ece31cc5428d43fcae/
+
+## Project Structure
+
+- `index.html` - Main landing page
+- `config.js` - API configuration
+- `style.css` - Styling
+
